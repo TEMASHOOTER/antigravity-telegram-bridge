@@ -1,0 +1,27 @@
+# Конфиденциальные данные и токены (КРИТИЧНО ДЛЯ БЕЗОПАСНОСТИ)
+config.json
+
+# Скриншоты и временные медиа-файлы
+*.png
+*.jpg
+*.jpeg
+*.bmp
+antigravity_reply.png
+current_screen.png
+temp_screen.png
+
+# Кэш Python и виртуальные окружения
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+venv/
+env/
+
+# Системные файлы Windows / macOS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
