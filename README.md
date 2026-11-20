@@ -134,7 +134,7 @@ Open your bot in Telegram on your phone and press **`/start`**!
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](../../issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/TEMASHOOTER/antigravity-telegram-bridge/issues).
 
 ## 📄 License
 
